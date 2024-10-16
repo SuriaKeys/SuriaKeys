@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome✨ 👋
 I am a beginner in the world of IT technologies, further, more!
 
 ## :mailbox: Reach me out!
