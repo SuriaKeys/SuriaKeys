@@ -45,10 +45,10 @@ and more: https://shields.io/badges
 
 ### CV
 - :paperclip: [My CV](https://docs.google.com/file/d/199rXsc5XSOadjpb2wsQbg50JhB9qqvhZ/edit?usp=docslist_api&filetype=msword)
-
+<!--
 ### My portfolio
 - :link: [Click](https://suriakeys.github.io/SuriaKeys/)
-
+-->
 
 
 ### My stats ⭐
